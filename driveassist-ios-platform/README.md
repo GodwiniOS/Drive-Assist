@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Users/godwina/.gemini/antigravity/brain/bc15aa3e-3509-497e-a115-0fc7631a67c0/drive_assist_icon_1769604443328.png" width="180" height="180" alt="DriveAssist Logo" />
+  <img src="./drive_assist_icon.png" width="180" height="180" alt="DriveAssist Logo" />
   <h1>DriveAssist Platform</h1>
   <p>
     <strong>A World-Class, Modular Telematics & Safety Platform for iOS.</strong>
