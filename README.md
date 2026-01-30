@@ -14,9 +14,10 @@ This repository serves as the central hub for the various platform implementatio
 - **Tech Stack**: Swift 5.9, SwiftUI, Combine, CoreMotion.
 - **Architecture**: Modular Monorepo (SPM).
 
-### 🤖 Android Platform
-**Status:** 🚧 Planned
-- **Goal**: Native Kotlin implementation using Jetpack Compose and Android Automotive OS APIs.
+### 🤖 [Android Platform](./driveassist-android-platform)
+**Status:** 🏗️ In Development
+- **Goal**: Native Kotlin implementation using Jetpack Compose and Multi-Module Architecture.
+- **Tech Stack**: Kotlin, Jetpack Compose, Coroutines, Android Bluetooth.
 
 ### 🌐 Web Console
 **Status:** 🚧 Planned
